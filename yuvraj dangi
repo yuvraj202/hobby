@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+   <img src="https://5.imimg.com/data5/RQ/IM/UA/SELLER-75248828/brand-new-borgki-jaguar-model-cycle-fat-tyre-dual-disc-breaks-and-21-gears-500x500.jpeg">
+    
+    <section id="heading" >
+    <h1>My Favorite hobby cycling</h1></section>
+    <br><br><br>
+    <section>My Favorite Hobby is Cycling.Cycling can help to protect you from serious diseases such as stroke, heart attack, some cancers, depression, diabetes, obesity and arthritis.
+Riding a bike is healthy, fun and a low-impact form of exercise for all ages.
+Cycling is easy to fit into your daily routine by riding to the shops, park, school or work. </section>
+</body>
+</html>
